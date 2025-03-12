@@ -1,4 +1,4 @@
-package com.example.marriage_service.controller.service;
+package com.example.marriage_service.service;
 
 import com.example.marriage_service.event.MarriageEvent;
 import org.slf4j.Logger;
